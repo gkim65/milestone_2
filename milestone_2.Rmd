@@ -1,0 +1,20 @@
+---
+title: "Milestone 2"
+author: "Grace Kim"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project #1: The Harvard Shop Web Fufillment Data
+#### Self collected data/data collection of 12,000 orders
+  This project was very interesting to me because the individual who created this data plot did so with not a random research project, but because they utilized the functions of R for a real life application: the business of the Harvard Shop. Creating plots to help with the future financial organization and business of the Harvard Shop, I appreciated how he was able to find a method to make an effective, concise summary of the sales data that his successors could utilize. He exemplified many positive traits in the development of informive diagrams (at just first glance!). His diagrams first of all are not convoluted and are easy to compare every category (in this case months) through a bar graph. His color scheme and design is very minimalistic, which works with his project's topic of business- however, I would suggest in the future he create more vibrant graphs of data instead of completely black, grey, and white backgrounds. I appreciated the various types of topics he created graphs for, the avg. order value per month and orders per month for each country, as well as the total sales per month. His explanations for his motivations and the problem were pretty detailed; I think the topic he chose however was a bit trivial, and maybe he could utilize the data he received from the Harvard Shop to create more connections between the market and their sales.
+
+
+## Project #2:Analysis of Death Row Inmates in Texas
+
+I respect this student for taking the initiative for creating a project dealing with a very sensitive topic. The various perspectives that this project took in trying to represent the data was very interesting. The entire flow was very easy to follow, where they went through a step by step process of explaining why Texas was the focus of the project, (they utilized a pie graph to show the different states, a very informative histogram comparing Texas' history of death row inmates and the US, and an actual table of data as well!), word clouds of what the inmates said in their last statements before death, as well as using scatter/line plots to show the change in more positivity in prisoners' last statements before death. They went in such great depth to showcase the various facets of the death row inmates, and I thought this was a very large advantage this project had over other previous ones. I also appreciated the bright contrasting colors in each graph as it made it easy to compare the various groupings of variables and factors. It was a bit difficult to see a good correlation in their graphs for the third section, Sentiment Over Time in Texas Death Row Subjects, as it was a bit convoluted having both scattered points and a best line fit (which did not fit very well), and it was a little difficult to find some meaningful correlations until you played around with the functions alot. Overall, this project was very cool however, and it does convey information in a very effective manner- makes you want to keep reading!
+
